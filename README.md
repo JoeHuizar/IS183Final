@@ -23,7 +23,7 @@ On the Beverages list page, when the user click on the "Create a Beverage", the 
 
 ### Beverage Update Page
 On the Beverage list page, when a user click on the Beverage items (represented by a card), they are routed to the Beverage Update page where the user can update the Beverage record. Wire up the form provided to send a PUT request to the server to update the individual beverage record. `25pts`
-
+e
 ### Delete Beverage
 On the Beverage list page, when the user press the red x button, the beverage is deleted from the database. Wire up the button's click event to delete the beverage record. `25pts`
 
